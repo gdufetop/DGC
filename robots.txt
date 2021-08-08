@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Disallow: /layer/
+Disallow: /res/
+Disallow: /src/
+Disallow: /*.js
+Disallow: /*.md
+Disallow: /*.css
+Sitemap: https://dgc.gdufe.top/sitemap.xml
