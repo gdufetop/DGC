@@ -1,0 +1,21 @@
+{
+  "name": "dgc",
+  "version": "0.0.0",
+  "private": "true",
+  "description": "",
+  "keywords": [],
+  "license": "MPL-2.0",
+  "author": "gdufetop (https://github.com/gdufetop)",
+  "scripts": {
+    "build": "pnpm exec gulp build"
+  },
+  "devDependencies": {
+    "cssnano": "^6.1.0",
+    "esbuild": "^0.20.1",
+    "gulp": "^4.0.2",
+    "htmlnano": "^2.1.0",
+    "terser": "^5.29.1",
+    "through2": "^4.0.2"
+  },
+  "packageManager": "pnpm@8.15.4+sha256.cea6d0bdf2de3a0549582da3983c70c92ffc577ff4410cbf190817ddc35137c2"
+}
