@@ -7,7 +7,7 @@
   "license": "MPL-2.0",
   "author": "gdufetop (https://github.com/gdufetop)",
   "scripts": {
-    "build": "pnpm exec gulp build"
+    "build": "gulp build"
   },
   "devDependencies": {
     "cssnano": "^6.1.0",
