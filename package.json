@@ -11,7 +11,7 @@
   },
   "devDependencies": {
     "cssnano": "^6.1.0",
-    "esbuild": "^0.20.1",
+    "esbuild": "^0.25.0",
     "gulp": "^4.0.2",
     "htmlnano": "^2.1.0",
     "terser": "^5.29.1",
